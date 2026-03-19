@@ -1,6 +1,7 @@
 # 🕹️ Juego de lógica: Número Secreto
 
 ![Status](https://img.shields.io/badge/STATUS-COMPLETADO-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ## 📌 Descripción del proyecto
 
