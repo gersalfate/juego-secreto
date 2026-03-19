@@ -1,10 +1,10 @@
-# 🕹️ Juego de lógica: Número Secreto - Programa ONE | Oracle + Alura Latam
+# 🕹️ Juego de lógica: Número Secreto
 
 ![Status](https://img.shields.io/badge/STATUS-COMPLETADO-blue)
 
 ## 📌 Descripción del proyecto
 
-Este proyecto es un ejercicio de lógica desarrollado durante el programa **Oracle Next Education (ONE)**. Consiste en un juego interactivo donde el usuario debe adivinar un número generado aleatoriamente por el sistema, integrando elementos de interactividad y respuesta en tiempo real.
+Este proyecto es un ejercicio de lógica desarrollado durante el programa **Oracle Next Education (ONE)** de **Oracle + Alura Latam**. Consiste en un juego interactivo donde el usuario debe adivinar un número generado aleatoriamente por el sistema, integrando elementos de interactividad y respuesta en tiempo real.
 
 ## 🚀 Conceptos de programación aplicados
 
